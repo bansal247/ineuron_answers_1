@@ -8,4 +8,4 @@ for i in range(l):
 while first<l:
     nums[first] = 0
     first+=1
-print(nums)
+# print(nums)
